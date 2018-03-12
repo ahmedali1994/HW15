@@ -1,0 +1,13 @@
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\HW15.exe.config
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\HW15.exe
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\HW15.pdb
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\EntityFramework.dll
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\EntityFramework.xml
+C:\Users\ClevelandCodes\source\repos\HW15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.exe
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.pdb
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.Migrations.INITAIL.resources
+C:\Users\ClevelandCodes\source\repos\HW15\obj\Debug\HW15.csproj.GenerateResource.Cache
